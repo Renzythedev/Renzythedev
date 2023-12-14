@@ -51,7 +51,7 @@ https://instagram.com/ardathedev?igshid=OGQ5ZDc2ODk2ZA==) [![Discord](https://im
 <p align="center">
   <img src="https://img.shields.io/badge/-Cinema_4D-05141E?style=flat-square&logo=cinema-4d&logoColor=white" alt="Cinema 4D" />
   <img src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
-  <img src="https://img.shields.io/badge/-Blender-000000?style=flat-square&logo=cryengine&logoColor=white" alt="Blender" />
+  <img src="https://img.shields.io/badge/-CryEngine-000000?style=flat-square&logo=cryengine&logoColor=white" alt="CryEngine" />
   <img src="https://img.shields.io/badge/-Adobe_XD-FF26BE?style=flat-square&logo=adobe-xd&logoColor=white" alt="Adobe XD" />
   <img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
   <img src="https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white" alt="Illustrator" />
