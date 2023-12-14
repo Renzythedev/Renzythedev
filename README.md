@@ -25,7 +25,7 @@ https://instagram.com/ardathedev?igshid=OGQ5ZDc2ODk2ZA==) [![Discord](https://im
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java" alt="Java" />
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java" alt="Java" />
   <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp" alt="C#" />
   <img src="https://img.shields.io/badge/-F%23-378BAC?style=flat-square&logo=f-sharp" alt="F#" />
   <img src="https://img.shields.io/badge/-Visual_Basic-9457A1?style=flat-square&logo=visual-studio&logoColor=white" alt="Visual Basic" />
@@ -51,7 +51,7 @@ https://instagram.com/ardathedev?igshid=OGQ5ZDc2ODk2ZA==) [![Discord](https://im
 <p align="center">
   <img src="https://img.shields.io/badge/-Cinema_4D-05141E?style=flat-square&logo=cinema-4d&logoColor=white" alt="Cinema 4D" />
   <img src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
-  <img src="https://img.shields.io/badge/-CryEngine-000000?style=flat-square&logo=blender&logoColor=white" alt="CryEngine" />
+  <img src="https://img.shields.io/badge/-Blender-000000?style=flat-square&logo=blender&logoColor=white" alt="Blender" />
   <img src="https://img.shields.io/badge/-Adobe_XD-FF26BE?style=flat-square&logo=adobe-xd&logoColor=white" alt="Adobe XD" />
   <img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
   <img src="https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white" alt="Illustrator" />
