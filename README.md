@@ -61,9 +61,9 @@ https://instagram.com/yigitstack?igshid=OGQ5ZDc2ODk2ZA==) [![Discord](https://im
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ozaiithejava&show_icons=true&count_private=true&theme=nord" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=renzythedev&show_icons=true&count_private=true&theme=nord" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozaiithejava&layout=compact&theme=nord" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renzythedev&layout=compact&theme=nord" alt="Top Languages" />
 </p>
