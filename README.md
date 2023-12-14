@@ -25,7 +25,7 @@ https://instagram.com/ardathedev?igshid=OGQ5ZDc2ODk2ZA==) [![Discord](https://im
 </p>
 
 <p align="center">
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" alt="Java" width="20" height="20"/>
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" alt="Java" width="30" height="30"/>
   <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp" alt="C#" />
   <img src="https://img.shields.io/badge/-F%23-378BAC?style=flat-square&logo=f-sharp" alt="F#" />
   <img src="https://img.shields.io/badge/-Visual_Basic-9457A1?style=flat-square&logo=visual-studio&logoColor=white" alt="Visual Basic" />
