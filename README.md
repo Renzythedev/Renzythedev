@@ -20,12 +20,12 @@ https://instagram.com/ardathedev?igshid=OGQ5ZDc2ODk2ZA==) [![Discord](https://im
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src=https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-icons.com%2Ficon%2Fjava-original-wordmark-logo%2F146459&psig=AOvVaw2qDfGCVeFhTPtawh3D8F4M&ust=1702655116169000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPiCkt-ij4MDFQAAAAAdAAAAABAD alt="Node.js" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java" alt="Java" />
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png" alt="Java" />
   <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp" alt="C#" />
   <img src="https://img.shields.io/badge/-F%23-378BAC?style=flat-square&logo=f-sharp" alt="F#" />
   <img src="https://img.shields.io/badge/-Visual_Basic-9457A1?style=flat-square&logo=visual-studio&logoColor=white" alt="Visual Basic" />
