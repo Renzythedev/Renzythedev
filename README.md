@@ -15,8 +15,8 @@ https://instagram.com/this.arda?igshid=OGQ5ZDc2ODk2ZA==)
 ### Programming Languages:
 
 <p align="center">
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" alt="Java" width="35" height="35"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++" />
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" alt="Java" width="50" height="50"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++"  width="50" height="50"/>
 </p>
 
 
