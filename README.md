@@ -7,32 +7,18 @@ I'm a passionate developer and creative thinker, exploring the endless possibili
 ## 📱 Contact
 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](
-https://instagram.com/ardathedev?igshid=OGQ5ZDc2ODk2ZA==) [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/)
+https://instagram.com/this.arda?igshid=OGQ5ZDc2ODk2ZA==)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](renzyrls1@gmail.com)
-[![Website](https://img.shields.io/badge/-Website-34DB88?style=flat-square&logo=google-chrome&logoColor=white)](https://www.example.com/)
 
 ## 💻 My Skills:
 
 ### Programming Languages:
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-</p>
-
-<p align="center">
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" alt="Java" width="35" height="35"/>
-  <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp" alt="C#" />
-  <img src="https://img.shields.io/badge/-F%23-378BAC?style=flat-square&logo=f-sharp" alt="F#" />
-  <img src="https://img.shields.io/badge/-Visual_Basic-9457A1?style=flat-square&logo=visual-studio&logoColor=white" alt="Visual Basic" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
-</p>
 
 ### Databases:
 
