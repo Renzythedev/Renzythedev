@@ -1,6 +1,6 @@
 #Hi 👋, I'm Arda.
 
- 🌿 Skills: **Java** n/
+ 🌿 Skills: **Java** \n
  🔭 working on **Dark4MC** as owner.
  📪 Contacts:
        **Discord:** renzy.jvm
