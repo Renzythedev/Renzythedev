@@ -5,4 +5,4 @@
 - 📪 Contacts:
   - **Discord:** renzy.jvm
   - **Instagram:** renzy.jvm
-  - **Email:** renzyrls1@gmail.com
+  - **Email:** renzyoyunda@outlook.com
