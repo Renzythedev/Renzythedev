@@ -1,7 +1,7 @@
 # Hi 👋, I'm Arda.
 
 - 🌿 Skills: **Java**
-- 🔭 Working in KodBeyin team.
+- 🔭 I'm currently learning C++
 - 📪 Contacts:
   - **Discord:** renzy.jvm
   - **Instagram:** renzy.jvm
