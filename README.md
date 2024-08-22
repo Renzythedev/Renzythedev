@@ -3,6 +3,6 @@
 - 🌿 Skills: **Java**
 - 🔭 I'm currently learning C++
 - 📪 Contacts:
-  - **Discord:** renzy.jvm
-  - **Instagram:** renzy.jvm
+  - **Discord:** renzyoyunda
+  - **Instagram:** renzyoyunda
   - **Email:** renzyoyunda@outlook.com
